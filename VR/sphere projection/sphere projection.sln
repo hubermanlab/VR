@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2AD1ED77-26A5-10F0-2ECB-4634F829E87A}") = "sphere projection", "Assembly-CSharp-firstpass.csproj", "{3BE586A1-3A21-48FA-5251-9ADC9AD0DACC}"
+EndProject
+Project("{2AD1ED77-26A5-10F0-2ECB-4634F829E87A}") = "sphere projection", "Assembly-CSharp.csproj", "{8A2AA944-CFDB-1237-DCEC-989038E694EA}"
+EndProject
+Project("{2AD1ED77-26A5-10F0-2ECB-4634F829E87A}") = "sphere projection", "Assembly-CSharp-Editor.csproj", "{F82C07E6-CC8C-2669-DC37-A7C470573740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE586A1-3A21-48FA-5251-9ADC9AD0DACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE586A1-3A21-48FA-5251-9ADC9AD0DACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE586A1-3A21-48FA-5251-9ADC9AD0DACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE586A1-3A21-48FA-5251-9ADC9AD0DACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A2AA944-CFDB-1237-DCEC-989038E694EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2AA944-CFDB-1237-DCEC-989038E694EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2AA944-CFDB-1237-DCEC-989038E694EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2AA944-CFDB-1237-DCEC-989038E694EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82C07E6-CC8C-2669-DC37-A7C470573740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82C07E6-CC8C-2669-DC37-A7C470573740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82C07E6-CC8C-2669-DC37-A7C470573740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82C07E6-CC8C-2669-DC37-A7C470573740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
